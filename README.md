@@ -1,4 +1,4 @@
-# LITA_Capstone_Project
+ # LITA_Capstone_Project
 Documentation of my LITA Capstone Project in Data Analysis with Incubator Hub.
 
 ### Project Title: Capstone Project
@@ -26,4 +26,14 @@ The primary data source used here is the Sales Data provided by the Github.
 ### Tools Used
 ---
 - Microsoft Excel: [Download Here](https://docs.google.com/spreadsheets/d/1GhpbKiXRyB4eSqaAIWdomrBeae667N9K/edit?gid=377935022#gid=377935022)
-- 
+   1. For Data Cleaning
+   2. For Analysis
+   3. For Data Summary
+- SQL - Structured Query Language for Quering Data
+- Power BI - For Data Visualization of insights found in Excel and SQL
+- GitHub for Portfolio Building
+
+### Data Cleaning and Preparation
+---
+---
+ 
