@@ -41,7 +41,7 @@ The primary data source used here is the Sales Data provided by the Github.
 
 ### Data Cleaning and Preparation
 ---
-## Phase 1
+Phase 1
 At the initial phase of data cleaning and preparation, i prepared the following actions:
 1. Data loading and inspection
 2. Data cleaning and formatting
