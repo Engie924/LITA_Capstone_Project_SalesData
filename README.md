@@ -41,10 +41,11 @@ The primary data source used here is the Sales Data provided by the Github.
 
 ### Data Cleaning and Preparation
 ---
-Phase 1
+# Phase 1: Excel
 At the initial phase of data cleaning and preparation, i prepared the following actions:
 1. Data loading and inspection
 2. Data cleaning and formatting
+I started by diving into the sales data using Excel. Pivot tables helped me summarize total sales by product, region, and month. I didn't stop there—Excel formulas were utilized to calculate key metrics like average sales per product and total revenue by region. A thorough initial exploration revealed interesting trends and patterns which laid the foundation for my deeper analysis.
 
 ### Exploratory Data Analysis
 ---
