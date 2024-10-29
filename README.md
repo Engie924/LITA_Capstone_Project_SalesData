@@ -11,11 +11,13 @@ Documentation of my LITA Capstone Project in Data Analysis with Incubator Hub.
 
 [Tools Used](#tools-used)
 
-[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+[Methodology](#methodology)
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Data Analysis](#data-analysis)
+
+[Screenshot View](#screenshot-view)
 
 ### Project Overview
 ---
@@ -77,4 +79,16 @@ After cleaning the data in Excel, i started the analysis and dashboard creation.
  - calculate the percentage of total sales contributed by each region.
  - identify products with no sales in the last quarter
  - Create a dashboard that visualizes the insights found in Excel and SQL. The dashboard should include a sales overview, top-performing products, and regional breakdowns.
+
+**Approach**
+
+Each question was addressed using descriptive statistics, visualizations, and charts to determine significance and identify key trends.
+
+### Screenshot View
+---
+
+**Dashboard Overview**
+
+[SalesData Pivot](https://github.com/user-attachments/assets/a1e73fb3-6799-42a7-86e4-cc1324212df2)
+
 
