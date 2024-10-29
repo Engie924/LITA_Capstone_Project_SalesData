@@ -91,4 +91,24 @@ Each question was addressed using descriptive statistics, visualizations, and ch
 
 [SalesData Pivot](https://github.com/user-attachments/assets/a1e73fb3-6799-42a7-86e4-cc1324212df2)
 
+**Insights with SQL**
+
+With my dataset loaded into SQL Server, i crafted queries to pull out critical insights:
+
+Total Sales by Product Category: I identified the total sales by each or the products with Soes = 613,380, Jacket = 208,230, Hat = 316,195, Socks = 180,785, Shirt = 485,600, and Gloves = 296,900. The categories with the most revenue is Shoes.
+
+Sales Transactions in Region: I measured the volume of sales across different regions. North - 2481, East - 2483, South - 2480, West- 2477.
+
+Highest-Selling Product: found the top product by total sales value to be Shoes - 613,380
+
+Revenue Per Product:  I calculated how much each product contributed to overall revenue.
+
+Monthly Sales Totals: I tracked sales trends throughout the current year.
+
+Top 5 Customers: I highlighted the most valuable customers based on purchase amounts.
+
+Percentage Sales Contribution by Region: was analyzed as well
+
+Products with no sales in the last quarter Wwas identified.
+
 
