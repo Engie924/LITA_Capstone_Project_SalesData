@@ -49,17 +49,16 @@ At the initial phase of data cleaning and preparation, i prepared the following 
 1. Data loading and inspection
 2. Data cleaning and formatting: the data cleaning process was done using Excel to remove duplicates to ensure data accuracy.
 
-
-
-
 ### Exploratory Data Analysis
 ---
-Explortaory Data Analysis involves the exploring of the Data to answer some questions about the data such as:
-- Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
-- Retrieve the total sales for each product category.
-- Find the number of sales transactions in each region.
-- Find the highest-selling product by total sales value.
-- Calculate monthly sales totals for the current year.
+
+After cleaning the data in Excel, i started the analysis and dashboard creation. In Excel, the following steps were carried out:
+
+Descriptive Statistics: Calculated basic statistics and analyzed distributions.
+
+Visualization: Created charts and graphs to visualize trends and patterns.
+
+Dashboard Creation: Developed interactive dashboards to present key findings effectively.
 
  ### Data Analysis
  ---
