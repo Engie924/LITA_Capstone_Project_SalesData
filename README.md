@@ -54,12 +54,14 @@ At the initial phase of data cleaning and preparation, i prepared the following 
 
 After cleaning the data in Excel, i started the analysis and dashboard creation. In Excel, the following steps were carried out:
 
-* Descriptive Statistics: Calculated basic statistics and analyzed distributions.
+**Descriptive Statistics:** Calculated basic statistics and analyzed distributions.
 
-* Visualization: Created charts and graphs to visualize trends and patterns.
+**Visualization:** Created charts and graphs to visualize trends and patterns.
 
-* Dashboard Creation: Developed interactive dashboards to present key findings effectively.
+**Dashboard Creation:** Developed interactive dashboards to present key findings effectively.
 
  ### Data Analysis
  ---
  This is where I included some basic lines of code or queries and even some of the DAX functions used during my analysis
+
+ **Analysis Question**
