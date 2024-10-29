@@ -33,8 +33,8 @@ The primary data source used here is the Sales Data provided by the Github.
 
 ### Tools Used
 ---
-- Microsoft Excel: [Download Here](https://docs.google.com/spreadsheets/d/1GhpbKiXRyB4eSqaAIWdomrBeae667N9K/edit?gid=377935022#gid=377935022)
-   1. For Data Cleaning
+- Microsoft Excel: [LITA Capstone Dataset (P).xlsx](https://github.com/user-attachments/files/17550195/LITA.Capstone.Dataset.P.xlsx)
+  1. For Data Cleaning
    2. For Analysis
    3. For Data Summary
 - SQL - Structured Query Language for Quering Data
