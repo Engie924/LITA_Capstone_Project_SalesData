@@ -64,4 +64,17 @@ After cleaning the data in Excel, i started the analysis and dashboard creation.
  ---
  This is where I included some basic lines of code or queries and even some of the DAX functions used during my analysis
 
- **Analysis Question**
+ **Analysis Questions**
+ - Perform an initial exploration of the sales data. Use pivot tables to summarize total sales by product, region, and month.
+ - Use Excel formulas to calculate metrics such as average sales per product and total revenue by region.
+ - Create any other interesting report
+ - retrieve the total sales for each product category.
+ - find the number of sales transactions in each region.
+ - find the highest-selling product by total sales value.
+ - calculate total revenue per product.
+ - calculate monthly sales totals for the current year.
+ - find the top 5 customers by total purchase amount.
+ - calculate the percentage of total sales contributed by each region.
+ - identify products with no sales in the last quarter
+ - Create a dashboard that visualizes the insights found in Excel and SQL. The dashboard should include a sales overview, top-performing products, and regional breakdowns.
+
