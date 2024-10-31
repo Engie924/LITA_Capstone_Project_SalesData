@@ -95,7 +95,7 @@ Each question was addressed using descriptive statistics, visualizations, and ch
 
 With my dataset loaded into SQL Server, i crafted queries to pull out critical insights:
 
-Total Sales by Product Category: I identified the total sales by each or the products with Soes = 613,380, Jacket = 208,230, Hat = 316,195, Socks = 180,785, Shirt = 485,600, and Gloves = 296,900. The categories with the most revenue is Shoes.
+Total Sales by Product Category: I identified the total sales by each or the products with Soes = 613,380, Jacket = 208,230, Hat = 316,195, Socks = 180,785, Shirt = 485,600, and Gloves = 296,900. The categories with the most revenue is Shoes. done
 
 Sales Transactions in Region: I measured the volume of sales across different regions. North - 2481, East - 2483, South - 2480, West- 2477.
 
