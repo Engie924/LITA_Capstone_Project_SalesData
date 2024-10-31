@@ -1,5 +1,5 @@
- # LITA_Capstone_Project
-Documentation of my LITA Capstone Project in Data Analysis with Incubator Hub.
+ # LITA_Capstone_Project_SalesData
+Documentation of my SALESDATA LITA Capstone Project in Data Analysis with Incubator Hub.
 
 ### Project Title: Capstone Project
 
@@ -37,7 +37,7 @@ The primary data source used here is the Sales Data provided by the Github.
   1. For Data Cleaning
    2. For Analysis
    3. For Data Summary
-- SQL - Structured Query Language for Quering Data
+- SQL - Structured Query Language for Quering Data 
 - Power BI - For Data Visualization of insights found in Excel and SQL
 - GitHub for Portfolio Building
 
@@ -87,7 +87,7 @@ Each question was addressed using descriptive statistics, visualizations, and ch
 ### Screenshot View
 ---
 
-**Dashboard Overview**
+**Excel Dashboard Overview**
 
 [SalesData Pivot](https://github.com/user-attachments/assets/a1e73fb3-6799-42a7-86e4-cc1324212df2)
 
@@ -98,6 +98,7 @@ With my dataset loaded into SQL Server, i crafted queries to pull out critical i
 Total Sales by Product Category: I identified the total sales by each or the products with Soes = 613,380, Jacket = 208,230, Hat = 316,195, Socks = 180,785, Shirt = 485,600, and Gloves = 296,900. The categories with the most revenue is Shoes.
 
 Sales Transactions in Region: I measured the volume of sales across different regions. North - 2481, East - 2483, South - 2480, West- 2477.
+
 
 Highest-Selling Product: found the top product by total sales value to be Shoes - 613,380
 
