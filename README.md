@@ -17,7 +17,7 @@ Documentation of my SALESDATA LITA Capstone Project in Data Analysis with Incuba
 
 [Data Analysis](#data-analysis)
 
-[Dashboard Visualization](#dasboard-visualization)
+[Dashboard Visualization](#dashboard-visualization)
 
 ### Project Overview
 ---
