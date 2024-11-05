@@ -172,11 +172,10 @@ The Power BI dashboard i created synthesized all these insights found in Excel a
  
 **Power BI Visualization**
 
-![Power BI Visualization](https://github.com/user-attachments/assets/7575a307-f30a-44f2-8fce-55ed4f130b8c)
-
-![Power BI Visualization1](https://github.com/user-attachments/assets/8210ccce-1c04-4723-9b05-aed453ffc3d3)
 
 ![PowerBI Data Visualization](https://github.com/user-attachments/assets/1dbbef3a-0f43-4aa4-8838-6b6b309325d2)
+
+
 
 ![PowerBI Data Visualization1](https://github.com/user-attachments/assets/ec8ef3cc-7fdd-4c73-84c4-9558fb87edc5)
 
