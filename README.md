@@ -19,6 +19,8 @@ Documentation of my SALESDATA LITA Capstone Project in Data Analysis with Incuba
 
 [Dashboard Visualization](#dashboard-visualization)
 
+[Business Recommendations](#business-recommendations)
+
 ### Project Overview
 ---
 This Project aims to effectively and accurately evaluate and enhance the sales performance of a retail store of an organization by systematically analyzing sales data. The project involves identifying trends, opportunities, measuring, and interpreting key performance indicators (KPIs) , identify high- and low-performing areas, and optimize sales operations. By leveraging data-driven insights, this analysis will provide actionable recommendations to optimize sales strategies, get better customer engagement, and drive business growth. The culmination of this analysis is presented in an interactive Power BI dashboard, designed to visually showcase these findings.
@@ -180,8 +182,14 @@ The Power BI dashboard i created synthesized all these insights found in Excel a
 ![PowerBI Data Visualization1](https://github.com/user-attachments/assets/ec8ef3cc-7fdd-4c73-84c4-9558fb87edc5)
 
 
+### Business Recommendations
+---
 
+Based on the insights gained from the analysis and dashboard, my provided recommendations are:
 
+- Product Strategy: Focus should be on promoting top-selling products and discontinuing low-performing ones.
+- Regional Strategy: Investing in marketing and sales efforts in high-potential regions is adviced.
+- There should be Implementing loyalty programs to retain high-value customers and target low-value customers with personalized offers.
 
 This comprehensive approach not only provided deep insights into the retail store’s sales performance but also armed stakeholders with the information needed to make strategic decisions. This story not only showcases analytical skills but also the ability to transform data into actionable business intelligence.
 
